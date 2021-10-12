@@ -10,4 +10,5 @@ You can find all presentations, code and other materials from the Windows Server
 [04. Install Server Core - Windows Server 2022 MegaSeries](https://youtu.be/m1_5y60CB5Q)</br>
 [05. Promote Server Core Domain Controller - Windows Server 2022 MegaSeries](https://youtu.be/2p6W0jxENDs)</br>
 [06. Manage servers with Server Manager - Windows Server 2022 MegaSeries](https://youtu.be/dfekNuc7foA)</br>
-[07. Manage servers with Powershell - Windows Server 2022 MegaSeries](https://youtu.be/6F1Zr3OEm5o)
+[07. Manage servers with Powershell - Windows Server 2022 MegaSeries](https://youtu.be/6F1Zr3OEm5o)</br>
+[08. Perform an in-place upgrade from Windows Server 2016 - Windows Server 2022 MegaSeries](https://youtu.be/8CQY1ycGHiE)
