@@ -12,4 +12,5 @@ You can find all presentations, code and other materials from the Windows Server
 [06. Manage servers with Server Manager - Windows Server 2022 MegaSeries](https://youtu.be/dfekNuc7foA)</br>
 [07. Manage servers with Powershell - Windows Server 2022 MegaSeries](https://youtu.be/6F1Zr3OEm5o)</br>
 [08. Perform an in-place upgrade from Windows Server 2016 - Windows Server 2022 MegaSeries](https://youtu.be/8CQY1ycGHiE)</br>
-[09. Manage servers with Windows Admin Center](https://youtu.be/LG9poxLfSfU)
+[09. Manage servers with Windows Admin Center - Windows Server 2022 MegaSeries](https://youtu.be/LG9poxLfSfU)</br>
+[10. Active Directory Recycle Bin - Windows Server 2022 MegaSeries](https://youtu.be/E3YjmXa1SXc)
